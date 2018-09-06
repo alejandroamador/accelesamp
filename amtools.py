@@ -3,6 +3,7 @@ import matplotlib.cm as cm
 import sys
 import numpy as np
 import matplotlib.pyplot as plt
+sys.path.append('/Users/marcelino/Things_EDS/acceleration/')
 import accelerationmethods as am
 
 fname = sys.argv[1]
